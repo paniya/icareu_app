@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">icareu</string>
+    <string name="userid">userID</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="appoinments">Appoinments</string>
+    <string name="profile">Profile</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="radiobutton1">RadioButton</string>
+    <string name="radiobutton2">RadioButton</string>
+    <string name="Physician">Physician</string>
+    <string name="dinushka_fernando">Dinushka Fernando</string>
+    <string name="hominda_marasinghe">Hominda Marasinghe</string>
+    <string name="praneeth_perera">Praneeth Perera</string>
+    <string name="select_a_elder">Select a elder</string>
+    <string name="select">Select</string>
+    <string name="_3">3</string>
+    <string name="dose">Dose</string>
+    <string name="panadol">Panadol</string>
+    <string name="times">Times</string>
+    <string name="physican" />
+    <string name="time" />
+    <string name="physician">Physician</string>
+    <string name="timea">Time</string>
+    <string name="date">Date</string>
+    <string name="make_appointment">Make Appointment</string>
+    <string name="message">Message</string>
+    <string name="pick_a_date">pick a date</string>
+    <string name="appoinmentsp">Appoinments</string>
+    <string name="pillpod">Pillpod</string>
+    <string name="btdate">...</string>
+    <string name="dateapp">Date</string>
+    <string name="textview">TextView</string>
+    <string name="your_message_here">Your message here</string>
+    <string name="messages">Message</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="Description">Description</string>
+    <string name="your_description_here">Your Description here</string>
+    <string name="your_description">Your Description</string>
+    <string-array name="Physician_names">
+        <item>Dr. Saman Gunawardana</item>
+        <item>Dr. Kamal Perera</item>
+    </string-array>
+</resources>

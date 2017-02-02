@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677769235962",
+    "firebase_url": "https://icareu2-d3841.firebaseio.com",
+    "project_id": "icareu2-d3841",
+    "storage_bucket": "icareu2-d3841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677769235962:android:67b20ffcd44be19f",
+        "android_client_info": {
+          "package_name": "com.paniya.icareu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677769235962-rgd3kjudc3ii94kfo4la1lpjjaj43f8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paniya.icareu",
+            "certificate_hash": "0E8A31EAE879A0CA31608128F0D9D66FAFE10138"
+          }
+        },
+        {
+          "client_id": "677769235962-l0svqc7ilp1v8panfpc286b38d2elp58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ0LxIZiApoxDO5ihgGTgotSs7kLHMvXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677769235962-l0svqc7ilp1v8panfpc286b38d2elp58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
